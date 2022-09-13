@@ -22,12 +22,8 @@
  
 -Even if a competitor secures a possession with a rebound, if the opposition scores over 20, the game
   will end
-
-
-
-
-
-  To compile files use: 
+  
+###### To compile files use: 
   ```
   g++ main.cpp fire.cpp water.cpp ice.cpp game.cpp
   ```
