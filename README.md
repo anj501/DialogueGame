@@ -19,5 +19,4 @@
   To compile files use: 
   ```
   g++ main.cpp fire.cpp water.cpp ice.cpp game.cpp
-  
   ```
