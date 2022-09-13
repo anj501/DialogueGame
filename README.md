@@ -3,7 +3,7 @@
 
 -Randomizes numbers for parts of the game such as scoring ability, defense, rebounding, and who gets the ball
 
-**Important Game Features**
+###### Important Game Features
 
 - There are three different types of ballers (fire, water, and ice) with some being effective against others</sup>
 
