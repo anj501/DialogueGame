@@ -1,7 +1,7 @@
 # DialogueGame
 1 v 1 BallSport game that consists mostly of dialogue and strategy
 
-Randomizes numbers for parts of the game such as scoring ability, defense, rebounding, and who gets the ball
+Randomizes numbers and uses probability for parts of the game such as scoring ability, defense, rebounding, and who gets the ball
 
 ## Important Game Features
 
