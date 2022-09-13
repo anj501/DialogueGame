@@ -5,7 +5,7 @@
 
 **Important Game Features**
 
-<sup>There are three different types of ballers (fire, water, and ice) with some being effective against others</sup>
+- There are three different types of ballers (fire, water, and ice) with some being effective against others</sup>
 
 - There are different styles of ballers (scorer, defender, and all-arounder) within the types and they      
   specialize in their strengths.
