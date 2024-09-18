@@ -23,7 +23,10 @@ The game will go on until a team reaches 20 points.
 Even if a competitor secures a possession with a rebound, if the opposition scores over 20, the game
 will end.
  ## Screenshots
- >![img1](https://github.com/user-attachments/assets/61bc7578-2f03-4c57-bfd4-f53e5961126b)
+ >![img1](https://github.com/user-attachments/assets/082296e2-89c3-43f5-8898-97948929cdf7)
+ >![img2](https://github.com/user-attachments/assets/97f1e1b9-344f-4af8-b456-f466d0436db6)
+ >![img3](https://github.com/user-attachments/assets/61bc7578-2f03-4c57-bfd4-f53e5961126b)
+
 ###### To compile files use: 
   ```
   g++ main.cpp fire.cpp water.cpp ice.cpp game.cpp
